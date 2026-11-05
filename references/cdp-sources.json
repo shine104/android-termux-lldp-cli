@@ -1,0 +1,15 @@
+{
+  "commit": "ea87c2019db575ac736575ecc34f291dc75947b8",
+  "sources": [
+    {
+      "url": "https://raw.githubusercontent.com/lldpd/lldpd/ea87c2019db575ac736575ecc34f291dc75947b8/src/daemon/protocols/cdp.c",
+      "sha256": "e85e9752d1ec24118a5f2c0efa971f960a2a4ee1c8df6f6bc3f4f0ff2b629447",
+      "file": "lldpd-cdp.c"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/lldpd/lldpd/ea87c2019db575ac736575ecc34f291dc75947b8/src/daemon/frame.c",
+      "sha256": "760c12453d2f681cc2319dc7ea6ebe4da71f21c7151416153a49efcb57419da8",
+      "file": "lldpd-frame.c"
+    }
+  ]
+}

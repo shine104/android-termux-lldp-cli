@@ -1,0 +1,20 @@
+{
+  "commit": "168151cdb0f93d26557f9f3c7aae659b8d6b1863",
+  "files": [
+    {
+      "path": "drivers/net/usb/r8152.c",
+      "url": "https://raw.githubusercontent.com/torvalds/linux/168151cdb0f93d26557f9f3c7aae659b8d6b1863/drivers/net/usb/r8152.c",
+      "sha256": "5bd96f8f64dffd5d57b9b0f5bbe1117454750154b281f6106529ee62c5ae49d7"
+    },
+    {
+      "path": "include/linux/usb/r8152.h",
+      "url": "https://raw.githubusercontent.com/torvalds/linux/168151cdb0f93d26557f9f3c7aae659b8d6b1863/include/linux/usb/r8152.h",
+      "sha256": "2d171ccd1779082dfcb4e2663e0127844acd1d67b0358ef1ed2eadb6510f06e0"
+    },
+    {
+      "path": "include/uapi/linux/usbdevice_fs.h",
+      "url": "https://raw.githubusercontent.com/torvalds/linux/168151cdb0f93d26557f9f3c7aae659b8d6b1863/include/uapi/linux/usbdevice_fs.h",
+      "sha256": "d822c4c7ac5dd7fa54cf0d1a440fe3413edfee443a611a6d8d4ce69856393d25"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+# Captured network information stays on the phone.
+/logs/
+/*-EXPERIMENT.txt
+/LIVE-RESULTS.txt
+/DETACH-PROBE.txt
+/README.txt
+/references/*.txt
+
+# Generated files and local credentials.
+__pycache__/
+*.py[cod]
+*.tar.gz
+.env
+.env.*
+*.pem
+*.key
